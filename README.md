@@ -1,6 +1,6 @@
 # Amazon Clone Project
 
-https://nikita11ch.github.io/AMAZON-CLONE-SHOP-SIMPLICITY/
+View live : https://nikita11ch.github.io/AMAZON-CLONE-SHOP-SIMPLICITY/
 <br>
 
 This project is a simple Amazon clone created using HTML and CSS. It serves as a practice exercise for web development, focusing on building the front-end of an e-commerce platform.
